@@ -1,0 +1,12 @@
+.navbar {
+  float: right;
+}
+
+.w-100 {
+  height: 92vh;
+  object-fit: cover;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px black;
+}
