@@ -42,8 +42,32 @@ button {
   margin-left: 3vw;
 }
 
-.one-img {
-  background-image: url("https://source.unsplash.com/random/");
-  height: 401px;
-  width: 430px;
+.middle-imgs {
+  margin-top: 5vh;
+}
+
+.mid-imgs {
+  min-height: 50vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.img-1 {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+}
+
+.img-2 {
+  background-image: url("https://source.unsplash.com/random/1001x500");
+}
+
+.img-3 {
+  background-image: url("https://source.unsplash.com/random/1002x500");
+}
+
+.three-by-img {
+  padding-top: 40%;
+}
+
+.dark-foot {
+  background-color: black;
 }
